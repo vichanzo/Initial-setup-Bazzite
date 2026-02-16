@@ -1,7 +1,20 @@
 # Initial-setup-Bazzite
 
+## Brew installs
+```
+Brew install bat htop 
+```
 
-# Application of the WhiteSur theme (from https://github.com/Imasu/Guide-Installation-Bazzite)
+## Install Linux Toys (https://github.com/psygreg/linuxtoys)
+````
+curl -fsSL https://linux.toys/install.sh | bash
+````
+
+ - Install Docker
+ - Install DistroBox (based on Docker)
+
+
+## Application of the WhiteSur theme (from https://github.com/Imasu/Guide-Installation-Bazzite)
 
 Create a distrobox for the theme compilation with a separate home folder
 
