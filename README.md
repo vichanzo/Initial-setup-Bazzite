@@ -14,6 +14,17 @@ curl -fsSL https://linux.toys/install.sh | bash
  - Install DistroBox (based on Docker)
 
 
+## Gmone Extensions 
+ - Run "Extention Manager"
+ - Install
+  - dash to dock
+  - clipboard history
+  - search light
+  - (just another search)
+  - (tiling shell)  (smart tiling)
+  - (gsnap)
+
+
 ## Application of the WhiteSur theme (from https://github.com/Imasu/Guide-Installation-Bazzite)
 
 Create a distrobox for the theme compilation with a separate home folder
