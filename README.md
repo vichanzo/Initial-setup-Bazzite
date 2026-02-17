@@ -81,5 +81,16 @@ ujust setup-virtuzalzation
 wait for installation to complete then reboot
 
 
+Save Games
+````
+Use a tool like Ludusavi
 
+Most Windows games store saves in:
+
+    C:\Users\[Username]\Documents\My Games
+    C:\Users\[Username]\AppData\Local
+    C:\Users\[Username]\AppData\Roaming
+````
+
+Look the game up on PCGamingWiki
 
