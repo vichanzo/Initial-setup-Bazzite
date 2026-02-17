@@ -94,3 +94,14 @@ Most Windows games store saves in:
 
 Look the game up on PCGamingWiki
 
+## Setup Android
+ujust setup-waydroid
+````
+ujust setup-waydroid
+waydroid prop set persist.waydroid.multi_windows true
+waydroid session stop
+````
+Download netflix, youtube, Signal
+
+
+
