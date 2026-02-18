@@ -103,5 +103,8 @@ waydroid session stop
 ````
 Download netflix, youtube, Signal
 
+## Install Kali in Distrobox
+Follow this guide: https://tresnax.com/blog/setup-kalilinux-distrobox/ 
+
 
 
