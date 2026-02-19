@@ -106,5 +106,9 @@ Download netflix, youtube, Signal
 ## Install Kali in Distrobox
 Follow this guide: https://tresnax.com/blog/setup-kalilinux-distrobox/ 
 
-
+## Todo 
+Figure out how to use WinApps 
+- https://www.reddit.com/r/Bazzite/comments/1hjsc9f/how_to_actually_setup_winapps_on_bazzite/
+- https://www.reddit.com/r/Bazzite/comments/1hihi3w/anyone_tried_winapps_on_bazzite/
+- https://universal-blue.discourse.group/t/winapps-in-bazzite-portal/2199/3
 
