@@ -112,3 +112,9 @@ Figure out how to use WinApps
 - https://www.reddit.com/r/Bazzite/comments/1hihi3w/anyone_tried_winapps_on_bazzite/
 - https://universal-blue.discourse.group/t/winapps-in-bazzite-portal/2199/3
 
+```
+flatpak install com.freerdp.FreeRDP
+flatpak install com.freerdp.FreeRDP
+```
+
+
